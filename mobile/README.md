@@ -3,7 +3,7 @@ react-native version of the demo application created at presentation "Intro in R
 
 Mobilna verzija aplikacije koja je napravljena na prezentaciji "Uvod u React" u Startit Centru Indjija
 
-<img src="https://rawgit.com/gorangajic/react-introduction-demo/master/mobile/react-native-demo.gif" alt="Mobile Demo" />
+<img src="https://cdn.jsdelivr.net/gh/gorangajic/react-introduction-demo@master/mobile/react-native-demo.gif" alt="Mobile Demo" />
 
 To start app first install npm | Da bi pokrenuli aplikaciju prvo popkrenite
 
